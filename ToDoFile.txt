@@ -1,0 +1,4 @@
+Eat,high
+Swim,low
+Run,high
+Skip,low
